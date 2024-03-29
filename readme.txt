@@ -1,1 +1,2 @@
-Hello! This is a test
+Hello! This is not a fake
+Added a new line
